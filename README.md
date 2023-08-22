@@ -1,5 +1,5 @@
 # Shaanti - Mental Health Chatbot Application
-The Mental Health Chatbot is a web-based application built to provide support and resources for mental health-related queries. The chatbot utilizes a Flask-based server and a pre-trained neural network model for natural language understanding (NLU). It aims to offer a compassionate and non-judgmental platform where users can seek information and assistance related to mental health concerns.
+The Mental Health Chatbot is a web-based application built to provide support and resources for mental health-related queries. The chatbot utilizes a Flask-based server and a deep neural network model for natural language understanding (NLU). It aims to offer a compassionate and non-judgmental platform where users can seek information and assistance related to mental health concerns.
 
 <img width="450" alt="Screenshot 2023-08-05 at 10 52 15 PM" src="https://github.com/alyona-vishnoi/shaanti-mentalhealth-chatbot/assets/88257366/f6c7dfd5-e574-4645-800f-11741108aabc"> 
 
